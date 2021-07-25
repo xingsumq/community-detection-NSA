@@ -1,4 +1,4 @@
-# NSA #
+# Community Detection Code - NSA #
 
 The implementation of NSA: "[Neighbor Similarity Based Agglomerative Method for Community Detection in Networks](https://www.hindawi.com/journals/complexity/2019/8292485/)".
 
