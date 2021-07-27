@@ -6,14 +6,14 @@ The implementation of NSA: "[Neighbor Similarity Based Agglomerative Method for 
 
 If you find this method helpful for your research, please cite this paper.
 
-@article{cheng2019neighbor,  
+    @article{cheng2019neighbor,  
          title={Neighbor similarity based agglomerative method for community detection in networks},  
-    author={Cheng, Jianjun and Su, Xing and Yang, Haijuan and Li, Longjie and Zhang, Jingming and Zhao, Shiyan and Chen, Xiaoyun},  
-    journal={Complexity},  
-    volume={2019},  
-    year={2019},  
-    publisher={Hindawi}  
-}
+         author={Cheng, Jianjun and Su, Xing and Yang, Haijuan and Li, Longjie and Zhang, Jingming and Zhao, Shiyan and Chen, Xiaoyun},  
+         journal={Complexity},  
+         volume={2019},  
+         year={2019},  
+         publisher={Hindawi}  
+    }
 
 ***
 
